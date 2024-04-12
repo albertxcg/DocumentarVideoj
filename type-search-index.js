@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"JRPG_MEDACGAME","l":"Enemigo"},{"p":"JRPG_MEDACGAME","l":"Jugador"},{"p":"JRPG_MEDACGAME","l":"main"},{"p":"JRPG_MEDACGAME","l":"Tutorial"}];updateSearchResults();
